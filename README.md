@@ -59,6 +59,8 @@ Para executar o script, basta chamar a função `nbastats` passando a URL da pá
 ```python
 results = nbastats('https://www.nba.com/stats/players/traditional')
 
+
 ## Sobre o Autor
 Saiba mais sobre o autor deste projeto:
 - [Thiago Ribeiro](https://www.linkedin.com/in/thiago-carvalho-ribeiro-a7ba64208/)
+
