@@ -36,6 +36,13 @@ O script extrai as seguintes variáveis para cada jogador listado:
 - **TD3 (Triple Doubles):** Número de jogos em que o jogador atingiu dois dígitos em três dos cinco principais estatísticas - pontos, rebotes, assistências, roubos de bola e bloqueios.
 - **+/- (Plus-Minus):** A diferença de pontos marcados pelo time enquanto o jogador está em quadra e os pontos permitidos pelo time enquanto o jogador está em quadra.
 
+## Temporada
+
+- **SEASON (Temporada):** 2023-24
+- **SEASON TYPE (Tipo de Temporada):** Regular Season
+- **PER MODE (Modo):** Per Game
+- **SEASON SEGMENT (Segmento da Temporada):** All Season Segments
+
 ## Requisitos
 
 Para executar este script, é necessário ter o Python instalado, bem como as seguintes bibliotecas:
